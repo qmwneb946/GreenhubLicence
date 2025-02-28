@@ -6,7 +6,7 @@
 ## 在此处下载最新版 GreenHub：
 
 [Link(国外版)](https://github.com/qmwneb946/GreenhubLicence/releases/download/GreenhubDownload/GreenHub.Setup.2.2.0.exe) || [Link(国内版)](https://i-ak-ioi.lanzoup.com/isLbD2o6o2qf) 密码 `7q9r`。
-## 获取到的 GreenHub 许可证 （2025-02-28 18:48 更新）
+## 获取到的 GreenHub 许可证 （2025-02-28 18:53 更新）
 ```
 RrG2-eM7i-VfMN-QUC8-68BB
 RrDY-OjLg-0yIO-MBC8-2BCC
